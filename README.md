@@ -5,4 +5,5 @@ A Neural Network Rubik's Cube Solver using LSTM NNs.
 
 TODO:
 Reimplement IDA* search.
+
 Connect the GUI to the solver.
